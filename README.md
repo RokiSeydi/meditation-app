@@ -8,4 +8,4 @@ I practiced:
 
 - HTML5
 - CSS5
-- Javascript
+- JavaScript
